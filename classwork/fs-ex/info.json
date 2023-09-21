@@ -1,0 +1,9 @@
+{
+  "keywords": ["random", "data", "example"],
+  "author": "John Doe",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "slugify": "^1.6.6"
+  }
+}
